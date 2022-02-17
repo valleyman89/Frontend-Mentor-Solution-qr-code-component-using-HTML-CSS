@@ -1,0 +1,50 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", serif;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 40px hsl(220, 15%, 55%);
+  width: 375px;
+  padding: 15px;
+  text-align: center;
+  position: absolute;
+  top: 25%;
+}
+
+img {
+  border-radius: 15px;
+  width: 375px;
+  height: 375px;
+}
+
+.content {
+  width: 375px;
+  margin: auto;
+}
+
+h1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  font-weight: 400;
+  padding: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
