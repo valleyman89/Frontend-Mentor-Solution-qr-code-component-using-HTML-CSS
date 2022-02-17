@@ -46,5 +46,5 @@ in ![](css/styles.css) (line 15, 16) worked - I was anticipating 50% to move to 
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/valleyman89)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/valleyman89)
+- GitHub - [valleyman90](https://github.com/valleyman89)
+- Frontend Mentor - [@valleym89](https://www.frontendmentor.io/profile/valleyman89)
